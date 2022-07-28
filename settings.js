@@ -1,4 +1,4 @@
-Iniconst fs = require('fs')
+const fs = require('fs')
 const chalk = require('chalk')
 const  { indonesia, english} = require(`./language`)
 
@@ -19,15 +19,15 @@ global.autobio = true
 //language
 //Available in indonesia & english
 //You can request others language 
-global.language = english  //change indonesia to english if you don't understand the language used by the bot
+global.language = Indonesia  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 global.botname = "BotzRam - MD" //namabot kalian
-global.ownername= "Ramaa aJa" //nama kalian
-global.myweb ="https://api.Ramaa" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
+global.ownername= "•𝙍𝙖𝙢𝙖𝙖` 𝙆𝙚𝙩𝙘𝙚𝙝💤" //nama kalian
+global.myweb ="https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas asal jan hapus
+global.youtube = "https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas asal jan hapus
+global.github = "https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
