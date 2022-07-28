@@ -1,4 +1,4 @@
-const fs = require('fs')
+Iniconst fs = require('fs')
 const chalk = require('chalk')
 const  { indonesia, english} = require(`./language`)
 
