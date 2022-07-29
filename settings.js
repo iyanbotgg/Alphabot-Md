@@ -25,7 +25,7 @@ global.language = Indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "BotzRam - MD" //namabot kalian
 global.ownername= "•𝙍𝙖𝙢𝙖𝙖` 𝙆𝙚𝙩𝙘𝙚𝙝💤" //nama kalian
-global.myweb ="https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas asal jan hapus
+global.myweb ="https://api.Rama" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas asal jan hapus
 global.github = "https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
