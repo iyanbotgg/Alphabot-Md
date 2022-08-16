@@ -24,23 +24,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "𝘽𝙤𝙩𝙯𝙍𝙖𝙢 - 𝙈𝘿" //namabot kalian
-global.ownername= "•𝙍𝙖𝙢𝙖𝙖` 𝙆𝙚𝙩𝙘𝙚𝙝💤" //nama kalian
-global.myweb ="https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas asal jan hapus
-global.youtube = "https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas asal jan hapus
-global.github = "https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas
+global.botname = "ROMURU.ID" //namabot kalian
+global.ownername= "S4NS" //nama kalian
+global.myweb ="tiktok.com/@rabbityxx" //bebas asal jan hapus
+global.youtube = "tiktok.com/@rabbityxx" //bebas asal jan hapus
+global.github = "tiktok.com/@rabbityxx" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285755146419'] //premium user
-global.owner = ["6285806240904","6285791220179"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285791220179" // nomor wa kalian
-global.ownernomerr = "+6285791220179" //nmr wa kalian
+global.premium = ['6289638611279'] //premium user
+global.owner = ["6289638611279","6289638611279"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6289638611279" // nomor wa kalian
+global.ownernomerr = "+6289638611279" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© BotzRam' //sticker wm ubah
-global.author = 'Di Buat Oleh Rama' //sticker wm ganti nama kalian
+global.packname = '© RIMURU' //sticker wm ubah
+global.author = 'Di Buat Oleh S4NS' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
